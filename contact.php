@@ -162,7 +162,7 @@
 	<!-- Google Map -->
 
 	<script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCyixuV8Zco1ovmPsKISKMzp4WN_3HzFqI&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=your key=initMap">
     </script>
 
 	<script src="js/google_map.js"></script>
